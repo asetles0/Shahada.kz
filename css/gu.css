@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  body {
+    background-image: url();
+  }
+  header {
+    background-color: rgb(108, 172, 215);
+    padding: 10px;
+  }
+  
+  .navbar img {
+      width: 50px;
+      height: 50px;
+      width: fit-content;
+      border-radius: 100%;
+  }
+  
+  .navbar {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+  }
+  
+  .navbar a{
+      color: rgb(0, 0, 0);
+      text-decoration: none;
+  }
+  
+  .navbar a:hover {
+      color: white;
+  }
+  
+div {
+  display: flex;
+}

@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-image: url(https://m.media-amazon.com/images/I/51wveYGSZHL._AC_UF894,1000_QL80_.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+header {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd-LUaT6193uap5OmhQJh-u1Na7ZA39AQJAA&s);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
